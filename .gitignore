@@ -1,0 +1,8 @@
+# Java class files
+*.class
+
+# VS Code settings
+.vscode/
+
+# macOS system file
+.DS_Store
